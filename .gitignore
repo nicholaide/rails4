@@ -3,3 +3,4 @@ pkg/
 tmp/
 .DS_Store
 /.bundle
+db/test.sqlite3
